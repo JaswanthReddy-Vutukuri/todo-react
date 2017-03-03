@@ -1,7 +1,7 @@
 # todo-react
 Todo list with mongodb, express, react and nodejs
 
-#Steps to run & PreRequisites:
+#Steps to run & Prerequisites:
 
 1. `Installed nodejs, npm, mongodb`
 2. `git clone https://github.com/FrancisKong/todo-react.git`
